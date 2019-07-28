@@ -4,8 +4,8 @@ array.include?(element)
 end
 
 def using_sort(array)
-  using_sort.sort("wow")
-  using_sort.sort("I")
+  using_sort.sort
+  
 
 end
 
